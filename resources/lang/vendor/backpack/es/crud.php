@@ -130,4 +130,12 @@ return [
     'remove_filters'    =>  'Remover filtros',
     'toggle_filters'    =>  'Alternar filtros',
 
+
+    'attributes' => [
+      'name' => 'nombre',
+      'description' => 'descripción',
+      'price' => 'precio',
+      'photo' => 'fotografía'
+    ],
+
 ];
